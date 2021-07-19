@@ -1,2 +1,3 @@
-Pattern SingleTon
-Just one instance of a object cam be constructed.
+#Pattern SingleTon
+
+Just one instance of an object can be constructed.
